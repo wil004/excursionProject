@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1, h5, h6, video {
+    color: white
+} 
+
+footer {
+    color: grey;
+    text-align: right;
+    font-size: 20px;
+}
+
+
+a {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 20px;
+}
+
+.header h1 {
+    font-size: 50px;
+    font-family: Verdana;
+    font-weight: normal;
+    text-align: center;
+}
+
+.midSection h1 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.midSection h6 {
+    color: gray;
+    font-size: 22px;
+    font-family: verdana;
+}
+
+.bottom h1 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
